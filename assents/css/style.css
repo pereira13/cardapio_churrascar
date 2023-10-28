@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.container-cardapio img{
+    height: 100%;
+    width: 100%;
+}
+
+@media screen and (max-width: 520px) {
+    .container-cardapio img{
+        height: 100vh;
+        width: 100vw;
+    }
+}
+   
